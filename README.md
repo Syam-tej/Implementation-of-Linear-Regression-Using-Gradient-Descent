@@ -32,8 +32,8 @@ To write a program to implement the linear regression using gradient descent.
 
 Program to implement the linear regression using gradient descent.
 
-Developed by: S.ABHISHEK
-RegisterNumber: 212221230002
+Developed by: P.SYAM TEJ
+RegisterNumber: 212221240056
 
 
 import numpy as np
@@ -74,10 +74,6 @@ plt.ylabel("loss")
 ```
 
 ## OUTPUT:
-![output](./ml-1.png)
-
-
-![output](./ml-2.png)
 
 
 
